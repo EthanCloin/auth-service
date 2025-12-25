@@ -8,8 +8,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthService.ServiceDefaults
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthService.ApiService", "AuthService.ApiService\AuthService.ApiService.csproj", "{4705072E-E985-46EA-ADC4-849866351176}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthService.Web", "AuthService.Web\AuthService.Web.csproj", "{8126F2B0-09C7-4401-A649-D9DA347D84ED}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
